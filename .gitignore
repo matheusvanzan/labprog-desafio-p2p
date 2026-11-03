@@ -1,0 +1,14 @@
+# Material do professor: nao entregar aos alunos
+/painel/
+/referencia/
+# Scripts do professor
+/scripts/*
+
+# Arquivos locais
+.venv/
+__pycache__/
+*.log
+*.err
+.run/
+build/
+.gradle/
